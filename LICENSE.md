@@ -159,18 +159,6 @@
     </p>
 </div>
 
-<script>
-    function checkPassword() {
-        const correct = "1234";  
-        const input = document.getElementById("passInput").value;
-
-        if (input === correct) {
-            document.getElementById("content").style.display = "block";
-        } else {
-            alert("پسورد اشتباه است!");
-        }
-    }
-</script>
 
 </body>
 </html>
