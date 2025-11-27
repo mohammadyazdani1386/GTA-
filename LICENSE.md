@@ -1,9 +1,7 @@
 
 
 <div id="content">
-    <h1>GTA SAN ANDREAS ای کص کش
-        
-    </h1>
+    <h1>GTA SAN ANDREAS </h1>
     <p>
         <p>
 <h6>
